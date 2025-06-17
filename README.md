@@ -2,7 +2,7 @@
 A WIP Backend Developer.<br> 
 I started my coding adventure 3 years ago when i started studying Computer Engineering 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Computer%20Mouse.png" alt="Computer Mouse" width="25" height="25" />.<br>
-💻 I'm currently learning how to code with <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" alt="Node Js" width="25" height="25" >
+💻 I'm currently learning how to train <img src="https://as2.ftcdn.net/v2/jpg/07/56/11/69/1000_F_756116963_MKdL7O7BKH1ZHicpGXHd9ys9xDMhkGr2.jpg" alt="Node Js" width="25" height="25" >
 ### Languages and Tools
 
 
